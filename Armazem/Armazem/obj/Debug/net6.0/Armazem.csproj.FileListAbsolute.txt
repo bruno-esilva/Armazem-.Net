@@ -1,0 +1,15 @@
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\bin\Debug\net6.0\Armazem.exe
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\bin\Debug\net6.0\Armazem.deps.json
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\bin\Debug\net6.0\Armazem.runtimeconfig.json
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\bin\Debug\net6.0\Armazem.dll
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\bin\Debug\net6.0\Armazem.pdb
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\obj\Debug\net6.0\Armazem.csproj.AssemblyReference.cache
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\obj\Debug\net6.0\Armazem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\obj\Debug\net6.0\Armazem.AssemblyInfoInputs.cache
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\obj\Debug\net6.0\Armazem.AssemblyInfo.cs
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\obj\Debug\net6.0\Armazem.csproj.CoreCompileInputs.cache
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\obj\Debug\net6.0\Armazem.dll
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\obj\Debug\net6.0\refint\Armazem.dll
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\obj\Debug\net6.0\Armazem.pdb
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\obj\Debug\net6.0\Armazem.genruntimeconfig.cache
+D:\Codigo-do-Futuro\dotnet\Armazem\Armazem\Armazem\obj\Debug\net6.0\ref\Armazem.dll
